@@ -1,0 +1,176 @@
+AddSimpleModel(-1,19379, -2000, "objetos/ammo_box_1.dff", "objetos/ammo_box.txd");
+AddSimpleModel(-1,19379, -2001, "objetos/ammo_box_2.dff", "objetos/ammo_box.txd");
+AddSimpleModel(-1,19379, -2002, "objetos/police_locker.dff", "objetos/police_locker.txd");
+AddSimpleModel(-1,19379, -2003, "objetos/box_moneydrug.dff", "objetos/box_moneydrug.txd");
+AddSimpleModel(-1,19379, -2004, "objetos/burguershot_money.dff", "objetos/burguershot_money.txd");
+
+AddSimpleModel(-1, 5471, -2005, "mapas/Basket_park_1.dff", "mapas/Basket_park_1.txd");
+AddSimpleModel(-1, 5471, -2006, "mapas/predios_1.dff", "mapas/predios_1.txd");
+AddSimpleModel(-1, 5471, -2007, "mapas/predios_1_chao.dff", "mapas/predios_1.txd");
+
+AddSimpleModel(-1, 5471, -2008, "mapas/alhambra.dff", "mapas/alhambra.txd");
+AddSimpleModel(-1, 5471, -2009, "mapas/Plane_4x3.dff", "mapas/Plane_ChloeMoretz.txd");
+AddSimpleModel(-1, 5471, -2010, "mapas/Plane_8x6.dff", "mapas/Plane_ChloeMoretz.txd");
+AddSimpleModel(-1, 5471, -2011, "mapas/Plane_12x9.dff", "mapas/Plane_ChloeMoretz.txd");
+AddSimpleModel(-1, 5471, -2012, "mapas/Plane_16x9.dff", "mapas/Plane_ChloeMoretz.txd");
+AddSimpleModel(-1, 5471, -2013, "mapas/Plane_32x18.dff", "mapas/Plane_ChloeMoretz.txd");
+AddSimpleModel(-1, 5471, -2014, "mapas/Plane_48x27.dff", "mapas/Plane_ChloeMoretz.txd");
+
+AddCharModel(102, 20000, "skins/ballas_g1.dff", "skins/ballas_g1.txd");
+AddCharModel(102, 20001, "skins/ballas_g2.dff", "skins/ballas_g2.txd");
+AddCharModel(102, 20002, "skins/ballas_g3.dff", "skins/ballas_g3.txd");
+
+AddCharModel(3, 20003, "skins/ped1.dff", "skins/ped1.txd");
+AddCharModel(3, 20004, "skins/ped2.dff", "skins/ped2.txd");
+AddCharModel(3, 20005, "skins/ped3.dff", "skins/ped3.txd");
+AddCharModel(3, 20006, "skins/ped4.dff", "skins/ped4.txd");
+AddCharModel(3, 20007, "skins/ped5.dff", "skins/ped5.txd");
+AddCharModel(3, 20008, "skins/ped6.dff", "skins/ped6.txd");
+AddCharModel(3, 20009, "skins/ped7.dff", "skins/ped7.txd");
+AddCharModel(3, 20010, "skins/ped8.dff", "skins/ped8.txd");
+AddCharModel(3, 20011, "skins/ped9.dff", "skins/ped9.txd");
+AddCharModel(3, 20012, "skins/ped10.dff", "skins/ped10.txd");
+AddCharModel(3, 20013, "skins/ped11.dff", "skins/ped11.txd");
+AddCharModel(3, 20014, "skins/ped12.dff", "skins/ped12.txd");
+AddCharModel(3, 20015, "skins/ped13.dff", "skins/ped13.txd");
+AddCharModel(3, 20016, "skins/ped14.dff", "skins/ped14.txd");
+AddCharModel(3, 20017, "skins/ped15.dff", "skins/ped15.txd");
+AddCharModel(3, 20018, "skins/ped16.dff", "skins/ped16.txd");
+AddCharModel(3, 20019, "skins/ped17.dff", "skins/ped17.txd");
+AddCharModel(3, 20020, "skins/ped18.dff", "skins/ped18.txd");
+AddCharModel(3, 20021, "skins/ped19.dff", "skins/ped19.txd");
+AddCharModel(3, 20022, "skins/ped20.dff", "skins/ped20.txd");
+AddCharModel(3, 20023, "skins/ped21.dff", "skins/ped21.txd");
+AddCharModel(3, 20024, "skins/ped22.dff", "skins/ped22.txd");
+AddCharModel(3, 20025, "skins/ped23.dff", "skins/ped23.txd");
+
+AddCharModel(108, 20026, "skins/surenos/sur1.dff", "skins/sur1.txd");
+AddCharModel(108, 20027, "skins/surenos/sur2.dff", "skins/sur2.txd");
+AddCharModel(108, 20028, "skins/surenos/sur3.dff", "skins/sur3.txd");
+
+AddCharModel(107, 20029, "skins/groove_g1.dff", "skins/groove_g1.txd");
+AddCharModel(107, 20030, "skins/groove_g2.dff", "skins/groove_g2.txd");
+AddCharModel(107, 20031, "skins/groove_g3.dff", "skins/groove_g3.txd");
+
+AddCharModel(108, 20032, "skins/surenos/sur4.dff", "skins/surenos/sur4.txd");
+AddCharModel(108, 20033, "skins/surenos/sur5.dff", "skins/surenos/sur5.txd");
+
+AddCharModel(3, 20034, "skins/ped24.dff", "skins/ped24.txd");
+AddCharModel(3, 20035, "skins/ped25.dff", "skins/ped25.txd");
+AddCharModel(3, 20036, "skins/ped26.dff", "skins/ped26.txd");
+AddCharModel(3, 20037, "skins/ped27.dff", "skins/ped27.txd");
+AddCharModel(3, 20038, "skins/ped28.dff", "skins/ped28.txd");
+
+AddCharModel(107, 20039, "skins/groove_g4.dff", "skins/groove_g4.txd");
+AddCharModel(107, 20040, "skins/groove_g5.dff", "skins/groove_g5.txd");
+AddCharModel(107, 20041, "skins/groove_g6.dff", "skins/groove_g6.txd");
+AddCharModel(107, 20042, "skins/groove_g7.dff", "skins/groove_g7.txd");
+AddCharModel(107, 20043, "skins/groove_g8.dff", "skins/groove_g8.txd");
+AddCharModel(107, 20044, "skins/groove_g9.dff", "skins/groove_g9.txd");
+AddCharModel(107, 20045, "skins/groove_g10.dff", "skins/groove_g10.txd");
+AddCharModel(107, 20046, "skins/groove_g11.dff", "skins/groove_g11.txd");
+AddCharModel(107, 20047, "skins/groove_g12.dff", "skins/groove_g12.txd");
+
+AddCharModel(3, 20048, "skins/ped29.dff", "skins/ped29.txd");
+
+AddCharModel(281, 20049, "skins/LSPD/lspd1.dff", "skins/LSPD/lspd1.txd");
+
+AddCharModel(3, 20050, "skins/ped30.dff", "skins/ped30.txd");
+AddCharModel(3, 20051, "skins/ped31.dff", "skins/ped31.txd");
+
+AddCharModel(3, 20052, "skins/russian1.dff", "skins/russian1.txd");
+AddCharModel(3, 20053, "skins/russian2.dff", "skins/russian2.txd");
+AddCharModel(3, 20054, "skins/russian3.dff", "skins/russian3.txd");
+
+AddCharModel(281, 20055, "skins/LSPD/lspd2.dff", "skins/LSPD/lspd2.txd");
+AddCharModel(281, 20056, "skins/LSPD/lspd3.dff", "skins/LSPD/lspd3.txd");
+
+AddCharModel(3, 20057, "skins/ped32.dff", "skins/ped32.txd");
+
+AddCharModel(3, 20058, "skins/Dogs/dog1.dff", "skins/Dogs/dog1.txd");
+
+AddCharModel(108, 20059, "skins/surenos/sur7.dff", "skins/surenos/sur7.txd");
+AddCharModel(108, 20060, "skins/surenos/sur8.dff", "skins/surenos/sur8.txd");
+
+AddCharModel(281, 20061, "skins/LSPD/lspd4.dff", "skins/LSPD/lspd4.txd");
+AddCharModel(281, 20062, "skins/LSPD/lspd5.dff", "skins/LSPD/lspd5.txd");
+AddCharModel(281, 20063, "skins/LSPD/lspd6.dff", "skins/LSPD/lspd6.txd");
+AddCharModel(281, 20064, "skins/LSPD/lspd7.dff", "skins/LSPD/lspd7.txd");
+AddCharModel(281, 20065, "skins/LSPD/lspd8.dff", "skins/LSPD/lspd8.txd");
+AddCharModel(281, 20066, "skins/LSPD/lspd9.dff", "skins/LSPD/lspd9.txd");
+AddCharModel(281, 20067, "skins/LSPD/lspd10.dff", "skins/LSPD/lspd10.txd");
+AddCharModel(281, 20068, "skins/LSPD/lspd11.dff", "skins/LSPD/lspd11.txd");
+AddCharModel(281, 20069, "skins/LSPD/lspd12.dff", "skins/LSPD/lspd12.txd");
+AddCharModel(281, 20070, "skins/LSPD/lspd13.dff", "skins/LSPD/lspd13.txd");
+AddCharModel(281, 20071, "skins/LSPD/lspd14.dff", "skins/LSPD/lspd14.txd");
+
+AddCharModel(281, 20072, "skins/SAPD/sapd1.dff", "skins/SAPD/sapd1.txd");
+AddCharModel(281, 20073, "skins/SAPD/sapd2.dff", "skins/SAPD/sapd2.txd");
+AddCharModel(281, 20074, "skins/SAPD/sapd3.dff", "skins/SAPD/sapd3.txd");
+AddCharModel(281, 20075, "skins/SAPD/sapd4.dff", "skins/SAPD/sapd4.txd");
+
+AddCharModel(3, 20076, "skins/ped33.dff", "skins/ped33.txd");
+AddCharModel(108, 20077, "skins/surenos/sur9.dff", "skins/surenos/sur9.txd");
+AddCharModel(281, 20078, "skins/LSPD/lspd15.dff", "skins/LSPD/lspd15.txd");
+AddCharModel(3, 20079, "skins/ped34.dff", "skins/ped34.txd");
+AddCharModel(3, 20080, "skins/ped35.dff", "skins/ped35.txd");
+AddCharModel(3, 20081, "skins/ped36.dff", "skins/ped36.txd");
+AddCharModel(3, 20082, "skins/ped37.dff", "skins/ped37.txd");
+AddCharModel(3, 20083, "skins/ped38.dff", "skins/ped38.txd");
+AddCharModel(281, 20084, "skins/LSPD/lspd16.dff", "skins/LSPD/lspd16.txd");
+AddCharModel(281, 20085, "skins/LSPD/lspd17.dff", "skins/LSPD/lspd17.txd");
+AddCharModel(281, 20086, "skins/LSPD/lspd18.dff", "skins/LSPD/lspd18.txd");
+AddCharModel(281, 20087, "skins/LSPD/lspd19.dff", "skins/LSPD/lspd19.txd");
+AddCharModel(3, 20088, "skins/ped39.dff", "skins/ped39.txd");
+AddCharModel(3, 20089, "skins/ped40.dff", "skins/ped40.txd");
+AddCharModel(3, 20090, "skins/ped41.dff", "skins/ped41.txd");
+AddCharModel(3, 20091, "skins/ped42.dff", "skins/ped42.txd");
+AddCharModel(3, 20092, "skins/ped43.dff", "skins/ped43.txd");
+AddCharModel(3, 20093, "skins/ped44.dff", "skins/ped44.txd");
+AddCharModel(3, 20094, "skins/MD/md1.dff", "skins/MD/md1.txd");
+AddCharModel(3, 20095, "skins/MD/md2.dff", "skins/MD/md2.txd");
+AddCharModel(281, 20096, "skins/LSPD/swat1.dff", "skins/LSPD/swat1.txd");
+AddCharModel(3, 20097, "skins/MD/md3.dff", "skins/MD/md3.txd");
+AddCharModel(3, 20098, "skins/MD/md4.dff", "skins/MD/md4.txd");
+AddCharModel(3, 20099, "skins/ped45.dff", "skins/ped45.txd");
+AddCharModel(3, 20100, "skins/ped46.dff", "skins/ped46.txd");
+AddCharModel(3, 20101, "skins/ped47.dff", "skins/ped47.txd");
+AddCharModel(3, 20102, "skins/ped48.dff", "skins/ped48.txd");
+AddCharModel(3, 20103, "skins/ped49.dff", "skins/ped49.txd");
+AddCharModel(3, 20104, "skins/ped50.dff", "skins/ped50.txd");
+AddCharModel(3, 20105, "skins/ped51.dff", "skins/ped51.txd");
+AddCharModel(3, 20106, "skins/ped52.dff", "skins/ped52.txd");
+AddCharModel(3, 20107, "skins/ped53.dff", "skins/ped53.txd");
+AddCharModel(3, 20108, "skins/ped54.dff", "skins/ped54.txd");
+AddCharModel(3, 20109, "skins/ped55.dff", "skins/ped55.txd");
+AddCharModel(3, 20110, "skins/ped56.dff", "skins/ped56.txd");
+AddCharModel(3, 20111, "skins/ped57.dff", "skins/ped57.txd");
+AddCharModel(3, 20112, "skins/ped58.dff", "skins/ped58.txd");
+AddCharModel(3, 20113, "skins/ped59.dff", "skins/ped59.txd");
+AddCharModel(3, 20114, "skins/ped60.dff", "skins/ped60.txd");
+AddCharModel(108, 20115, "skins/surenos/sur10.dff", "skins/surenos/sur10.txd");
+AddCharModel(108, 20116, "skins/surenos/sur11.dff", "skins/surenos/sur11.txd");
+AddCharModel(108, 20117, "skins/surenos/sur12.dff", "skins/surenos/sur12.txd");
+AddCharModel(281, 20118, "skins/LSPD/lspd20.dff", "skins/LSPD/lspd20.txd");
+AddCharModel(3, 20119, "skins/ped61.dff", "skins/ped61.txd");
+AddCharModel(3, 20120, "skins/ped62.dff", "skins/ped62.txd");
+AddCharModel(3, 20121, "skins/ped63.dff", "skins/ped63.txd");
+AddCharModel(3, 20122, "skins/mob1.dff", "skins/mob1.txd");
+AddCharModel(3, 20123, "skins/mob2.dff", "skins/mob2.txd");
+AddCharModel(3, 20124, "skins/mob3.dff", "skins/mob3.txd");
+AddCharModel(3, 20125, "skins/mob4.dff", "skins/mob4.txd");
+AddCharModel(3, 20126, "skins/mob5.dff", "skins/mob5.txd");
+AddCharModel(3, 20127, "skins/ped64.dff", "skins/ped64.txd");
+AddCharModel(108, 20128, "skins/surenos/sur13.dff", "skins/surenos/sur13.txd");
+AddCharModel(108, 20129, "skins/surenos/sur14.dff", "skins/surenos/sur14.txd");
+AddCharModel(3, 20130, "skins/ped65.dff", "skins/ped65.txd");
+AddCharModel(3, 20131, "skins/ped66.dff", "skins/ped66.txd");
+AddCharModel(3, 20132, "skins/ped67.dff", "skins/ped67.txd");
+AddCharModel(3, 20133, "skins/ped68.dff", "skins/ped68.txd");
+AddCharModel(3, 20134, "skins/ped69.dff", "skins/ped69.txd");
+AddCharModel(3, 20135, "skins/ped70.dff", "skins/ped70.txd");
+AddCharModel(108, 20136, "skins/surenos/sur15.dff", "skins/surenos/sur15.txd");
+AddCharModel(3, 20137, "skins/ped71.dff", "skins/ped71.txd");
+AddCharModel(281, 20138, "skins/SAPD/sapd5.dff", "skins/SAPD/sapd5.txd");
+AddCharModel(281, 20139, "skins/SAPD/sapd6.dff", "skins/SAPD/sapd6.txd");
+AddCharModel(281, 20140, "skins/SAPD/sapd7.dff", "skins/SAPD/sapd7.txd");
